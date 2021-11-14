@@ -1,9 +1,7 @@
 # Hello World! <img src="https://media.giphy.com/media/eJG93okDlbbMSWreuz/giphy.gif" width="80" >
 
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tanivia-code/)](https://github.com/tanivia-code/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanivia/)](https://www.linkedin.com/in/tanivia/)
 
----
 ## About me
 ### Hi, I'm Tanivia
  
