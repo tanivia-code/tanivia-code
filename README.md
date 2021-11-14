@@ -15,9 +15,16 @@
 
 ## Languages and tools
 
-![tanivia-code Github Stats](https://github-readme-stats.vercel.app/api?username=tanivia-code&show_icons=true&theme=aura) ![Tanivia Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanivia-code&layout=compact&theme=nightowl)
+![tanivia-code Github Stats](https://github-readme-stats.vercel.app/api?username=tanivia-code&show_icons=true&theme=aura)
+![Tanivia Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanivia-code&layout=compact&theme=nightowl)
 
-<code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code><code><img height= "20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code><code><img height= "20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code><code><img height= "20" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code> <code><img height= "20" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height= "20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height= "20" src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"></code>
 
 - Thanks for visiting. 🙏
 
